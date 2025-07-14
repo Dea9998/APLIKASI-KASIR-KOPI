@@ -56,6 +56,12 @@ Menyimpan data nama dan harga kopi.
 
 - main() function
 
+coffee-inventory/
+├── coffee.py              # File utama program
+├── inventory.json         # Data menu & stok (otomatis dibuat)
+├── backup_inventory.json  # Backup data
+└── README.md              # Penjelasan project
+
 Tempat program jalan, nampilin menu, dan nerima input dari pengguna.
 
 ## CONTOH SAAT DIPAKAI
