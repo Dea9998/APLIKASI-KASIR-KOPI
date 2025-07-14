@@ -66,17 +66,19 @@ Tempat program jalan, nampilin menu, dan nerima input dari pengguna.
 
 ## CONTOH SAAT DIPAKAI
 
---- Coffee Menu ---
-1. Espresso Mantap Jiwa - $300
-2. Latte - $350
-3. Cappuccino bukan cina - $450
-4. Americano Bikin Melek - $330
-5. Liat pesanan
-6. Beli
-7. Keluar
+--- Menu Kopi Kita ---
+1. Espresso Mantap Jiwa - Rp300 (Stok: 9)
+2. Latte - Rp350 (Stok: 10)
+3. Cappuccino bukan cina - Rp450 (Stok: 10)
+4. Americano Bikin Melek - Rp330 (Stok: 9)
+5. Lihat keranjang pesanan
+6. Checkout
+7. Laporan penjualan
+8. Backup data
+9. Keluar
+Pilih nomor menu: 9
+Makasih banyak udah mampir Bang! Sampai jumpa lagi.
 
-Choose an option: 1
-oke sip Espresso Mantap Jiwa ada lagi?.
 
 Kwtika checkout tapi belum ada pesanan, bakal muncul:
 
