@@ -1,0 +1,59 @@
+{
+  "menu": [
+    {
+      "name": "Espresso Mantap Jiwa",
+      "price": 300,
+      "stock": 9
+      "stock": 8
+      "stock": 7
+      "stock": 6
+      "stock": 5
+      "stock": 4
+      "stock": 3
+      "stock": 2
+      "stock": 1
+    },
+    {
+      "name": "Latte",
+      "price": 350,
+      "stock": 9
+      "stock": 8
+      "stock": 7
+      "stock": 6
+      "stock": 5
+      "stock": 4
+      "stock": 3
+      "stock": 2
+      "stock": 1
+    },
+    {
+      "name": "Cappuccino bukan cina",
+      "price": 450,
+      "stock": 9
+      "stock": 8
+      "stock": 7
+      "stock": 6
+      "stock": 5
+      "stock": 4
+      "stock": 3
+      "stock": 2
+      "stock": 1
+    },
+    {
+      "name": "Americano Bikin Melek",
+      "price": 330,
+      "stock": 10
+      "stock": 9
+      "stock": 8
+      "stock": 7
+      "stock": 6
+      "stock": 5
+      "stock": 4
+      "stock": 3
+      "stock": 2
+      "stock": 1
+    }
+  ],
+  "total_sold": 2,
+  "total_income": 800
+}
