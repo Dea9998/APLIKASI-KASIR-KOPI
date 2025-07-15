@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "name": "Espresso Mantap Jiwa",
+      "price": 300,
+      "stock": 10
+    },
+    {
+      "name": "Latte",
+      "price": 350,
+      "stock": 9
+    },
+    {
+      "name": "Cappuccino bukan cina",
+      "price": 450,
+      "stock": 9
+    },
+    {
+      "name": "Americano Bikin Melek",
+      "price": 330,
+      "stock": 10
+    }
+  ],
+  "total_sold": 2,
+  "total_income": 800
+}
